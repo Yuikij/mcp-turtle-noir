@@ -170,3 +170,8 @@ node dist/index.js
 ## 许可证
 
 MIT，见 `LICENSE`。
+
+## 关于与致谢
+
+- 官方网站：[Turtle Noir](https://turtlenoir.com/)
+- 中文站：[出前一汤](https://haiguitang.net/)

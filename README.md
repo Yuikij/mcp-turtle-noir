@@ -174,3 +174,8 @@ See `README.zh-CN.md`.
 ## License
 
 MIT. See `LICENSE`.
+
+## Acknowledgements
+
+- Official Website: [Turtle Noir](https://turtlenoir.com/)
+- Chinese Mirror: [出前一汤](https://haiguitang.net/)

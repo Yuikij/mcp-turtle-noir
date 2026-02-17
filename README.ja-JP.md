@@ -170,3 +170,8 @@ node dist/index.js
 ## ライセンス
 
 MIT（`LICENSE` を参照）。
+
+## リンク
+
+- 公式サイト：[Turtle Noir](https://turtlenoir.com/)
+- 中国語版ミラー：[出前一汤](https://haiguitang.net/)
