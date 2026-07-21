@@ -1,39 +1,40 @@
 {
-    "name": "mcp-turtle-noir",
-    "version": "1.2.0",
-    "description": "The official MCP server for Turtle Noir - The lateral thinking puzzle game. Test your deductive reasoning against a strict AI host.",
-    "type": "module",
-    "bin": {
-        "mcp-turtle-noir": "./dist/index.js"
-    },
-    "scripts": {
-        "build": "tsc && chmod +x dist/index.js",
-        "prepublishOnly": "npm run build",
-        "start": "node dist/index.js"
-    },
-    "keywords": [
-        "mcp",
-        "mcp-server",
-        "game",
-        "puzzle",
-        "detective",
-        "turtle-soup",
-        "lateral-thinking"
-    ],
-    "author": "Turtle Noir Team",
-    "homepage": "https://turtlenoir.com/",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Yuikij/mcp-turtle-noir"
-    },
-    "dependencies": {
-        "@modelcontextprotocol/sdk": "^0.5.0",
-        "zod": "^3.22.4",
-        "zod-to-json-schema": "^3.25.1"
-    },
-    "devDependencies": {
-        "@types/node": "^20.10.0",
-        "typescript": "^5.3.0"
-    }
+  "name": "mcp-turtle-noir",
+  "version": "1.2.1",
+  "mcpName": "io.github.yuikij/mcp-turtle-noir",
+  "description": "The official MCP server for Turtle Noir - The lateral thinking puzzle game. Test your deductive reasoning against a strict AI host.",
+  "type": "module",
+  "bin": {
+    "mcp-turtle-noir": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc && chmod +x dist/index.js",
+    "prepublishOnly": "npm run build",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "game",
+    "puzzle",
+    "detective",
+    "turtle-soup",
+    "lateral-thinking"
+  ],
+  "author": "Turtle Noir Team",
+  "homepage": "https://turtlenoir.com/",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuikij/mcp-turtle-noir.git"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "zod": "^3.22.4",
+    "zod-to-json-schema": "^3.25.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0"
+  }
 }
