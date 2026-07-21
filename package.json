@@ -1,7 +1,7 @@
 {
   "name": "mcp-turtle-noir",
-  "version": "1.2.1",
-  "mcpName": "io.github.yuikij/mcp-turtle-noir",
+  "version": "1.2.2",
+  "mcpName": "io.github.Yuikij/mcp-turtle-noir",
   "description": "The official MCP server for Turtle Noir - The lateral thinking puzzle game. Test your deductive reasoning against a strict AI host.",
   "type": "module",
   "bin": {

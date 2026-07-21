@@ -1,19 +1,19 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
-  "name": "io.github.yuikij/mcp-turtle-noir",
-  "description": "Play Turtle Soup (lateral thinking puzzles) against a strict AI host: ask yes/no questions, get 4-class judgments, and reveal the hidden story.",
+  "name": "io.github.Yuikij/mcp-turtle-noir",
+  "description": "Play Turtle Soup (lateral thinking puzzles) against a strict AI host with yes/no questioning.",
   "repository": {
     "url": "https://github.com/Yuikij/mcp-turtle-noir",
     "source": "github"
   },
   "websiteUrl": "https://turtlenoir.com",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "packages": [
     {
       "registryType": "npm",
       "registryBaseUrl": "https://registry.npmjs.org",
       "identifier": "mcp-turtle-noir",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "transport": {
         "type": "stdio"
       },
